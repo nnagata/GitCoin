@@ -1,2 +1,6 @@
 # GitCoin
-a place for gitcoin-related things
+Currently a place for gitcoin-related things
+
+## Contents
+
+TerraStation
